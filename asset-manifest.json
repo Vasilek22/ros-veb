@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ros-veb/static/css/main.817ed536.css",
+    "main.js": "/ros-veb/static/js/main.53540e19.js",
+    "index.html": "/ros-veb/index.html",
+    "main.817ed536.css.map": "/ros-veb/static/css/main.817ed536.css.map",
+    "main.53540e19.js.map": "/ros-veb/static/js/main.53540e19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.817ed536.css",
+    "static/js/main.53540e19.js"
+  ]
+}
